@@ -3,7 +3,7 @@
 ## What is @syncfusion? 
 "@syncfusion is a .NET-based software product offering 1600+ components and frameworks that can be used in Visual Studio and Visual Studio Code for developing stunning applications."
 
-In this project I learned how to display a data and dataGrid in a front end application such as React.
+In this project I learned how to display a data and dataGrid in a FrontEnd application such as React.
 syncfusion is a very friendly library and it makes it very easy to work it.
 #### This app is not a CRUD application at this moment but I'm going to work on the BackEnd and I'm planing to build an API to make full CRUD application. 
 

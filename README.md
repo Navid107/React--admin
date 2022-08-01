@@ -10,3 +10,13 @@ syncfusion is a very friendly library and it makes it very easy to work it.
 
 
 [LiveApp](https://react-dashboards.netlify.app/)
+
+### Some Screenshots
+
+![1](https://user-images.githubusercontent.com/90425833/182230478-9cbe435b-aec5-442d-b475-d4b6d33448c1.png)
+![2](https://user-images.githubusercontent.com/90425833/182230496-b53faefd-eb87-4760-b65c-bcd3073bb8f0.png)
+![Screen Shot 2022-08-01 at 11 58 35 AM](https://user-images.githubusercontent.com/90425833/182230514-e897110d-d258-446b-a50a-c92cb1d0b685.png)
+![Screen Shot 2022-08-01 at 11 58 53 AM](https://user-images.githubusercontent.com/90425833/182230518-e49b52ce-c362-47c8-979d-c19c4e759f0e.png)
+![Screen Shot 2022-08-01 at 11 59 07 AM](https://user-images.githubusercontent.com/90425833/182230529-14b6c453-8d38-4564-bd54-d7246fd821b8.png)
+![Screen Shot 2022-08-01 at 11 59 46 AM](https://user-images.githubusercontent.com/90425833/182230534-ca11fa29-f96d-4afd-8c09-1b9c5eea069a.png)
+![Screen Shot 2022-08-01 at 12 00 05 PM](https://user-images.githubusercontent.com/90425833/182230540-80129214-1578-424f-b02e-a4e2367cf9ad.png)
